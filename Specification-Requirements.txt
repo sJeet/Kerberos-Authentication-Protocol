@@ -1,0 +1,7 @@
+- Programming Language Used: JAVA
+- Encryption Algorithm Used: AES
+- 32 bit java compiler (1.7 u51 preferred)
+- 32 bit ODBC driver
+- MS Access 2007 
+- Eclipse : eclipse-standard-kepler-SR2-win32
+- DSN Name: Kerberos_DSN 
